@@ -1,1 +1,1 @@
-Un description de mon projet GIT
+Une description de mon projet GIT
